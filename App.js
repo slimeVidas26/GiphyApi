@@ -40,7 +40,12 @@ const styles = StyleSheet.create({
   },
   text : {
     fontSize : 50,
-    color : 'coral'
+    color : 'coral',
+    borderColor : 'blue',
+borderStyle : "dashed",
+    borderWidth : 2,
+    borderRadius : 50,
+    padding : 25
   }
 });
 
